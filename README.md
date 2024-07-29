@@ -6,7 +6,7 @@ From the point clouds observed by the radar, it is possible to track the movemen
 The main goal is to employ advanced machine learning techniques that allow us to search for structures and patterns within a dataset, with the aim of separating reflections from subjects from noise. There is ongoing work in this area.
 
 ## Paper
-The manuals [here](docs)/ include both the physical and virtual installation of the MS72SF1 radar sensor manufactured by Minew.
+The manuals [here](docs) include both the physical and virtual installation of the MS72SF1 radar sensor manufactured by Minew.
 
 
 ## Crediti

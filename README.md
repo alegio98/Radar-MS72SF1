@@ -1,0 +1,1 @@
+This project was carried out as part of a research grant in collaboration with Roma3 University and the IT company Miewsemi. The project focuses on data extraction and processing from sensors (millimeter wave radar). Documentation in Italian as requested by the university.

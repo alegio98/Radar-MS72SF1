@@ -11,4 +11,3 @@ The manuals [here](docs) include both the physical and virtual installation of t
 
 ## Crediti
 - Alessandro Giovannini
-- Prof. Francesco Benedetto

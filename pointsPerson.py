@@ -3,6 +3,9 @@ import struct
 import sys
 import re
 
+
+# HOW to use this script > python pointsPerson.py <percorso_del_file_input.txt> <mode>
+
 def split_into_chunks(hex_string, chunk_size=4):
     """Splits a space-separated hex string into chunks of given size."""
     bytes_list = hex_string.strip().split()
@@ -137,7 +140,7 @@ if __name__ == "__main__":
     input_txt_file = sys.argv[1]
     mode = sys.argv[2]
     intermediate_csv_file = 'output_chunks.csv'
-    output_csv_file = 'output_processed.csv'
+    output_csv_file = 'output_PointsPerson.csv'
     cleaned_txt_file = 'cleaned_input.txt'
 
     # Remove empty lines from the input file

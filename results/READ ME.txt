@@ -1,0 +1,2 @@
+In these folders, we can find the flow of result generation by the scripts manipulating the file that generates the radar (examples) . Step-by-step.
+In general what the "pointCloud.py" and "pointsPerson.py" script do.

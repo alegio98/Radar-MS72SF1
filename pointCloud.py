@@ -4,6 +4,8 @@ import argparse
 import csv
 import os
 
+#How to use the script : python pointCloud.py input.txt output.csv
+
 # Funzioni di manipolazione del file TXT
 def split_into_chunks(hex_string, chunk_size=1):
     bytes_list = hex_string.strip().split()
